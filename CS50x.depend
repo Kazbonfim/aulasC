@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1719638575 source:d:\faculdade\aulas de c\cs50x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<cs50.h>
+
+1719576556 source:d:\faculdade\aulas de c\cs50x\aula02.c
+	<stdio.h>
+	<locale.h>
+	<cs50.h>
+
+1719603004 source:d:\faculdade\aulas de c\cs50x\aula03.c
+	<stdio.h>
+	"config.c"
+	<cs50.h>
+
+1719577082 d:\faculdade\aulas de c\cs50x\config.c
+	<locale.h>
+
+1719638542 source:d:\faculdade\aulas de c\cs50x\aula04.c
+	<stdio.h>
+	<cs50.c>
+	"config.c"
+
+1719577082 source:d:\faculdade\aulas de c\cs50x\config.c
+	<locale.h>
+
+1719602984 source:d:\faculdade\aulas de c\cs50x\primeirospassos.c
+	<stdio.h>
+	<locale.h>
+	<cs50.c>
+
+1719607591 source:d:\faculdade\aulas de c\cs50x\aula05.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719608860 source:d:\faculdade\aulas de c\cs50x\aula06.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719610152 source:d:\faculdade\aulas de c\cs50x\aula07.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719617575 source:d:\faculdade\aulas de c\cs50x\aula08.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719617941 source:d:\faculdade\aulas de c\cs50x\aula09.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719618366 source:d:\faculdade\aulas de c\cs50x\aula10.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719620039 source:d:\faculdade\aulas de c\cs50x\aula11.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719620014 source:d:\faculdade\aulas de c\cs50x\aula12.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719621275 source:d:\faculdade\aulas de c\cs50x\aula13.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719623990 source:d:\faculdade\aulas de c\cs50x\aula14.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719624538 source:d:\faculdade\aulas de c\cs50x\aula15.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719628175 source:d:\faculdade\aulas de c\cs50x\aula16.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719628398 source:d:\faculdade\aulas de c\cs50x\aula17.c
+	<stdio.h>
+	<cs50.h>
+	<math.h>
+	"config.c"
+
+1719630325 source:d:\faculdade\aulas de c\cs50x\aula18.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719630751 source:d:\faculdade\aulas de c\cs50x\aula19.c
+	<stdio.h>
+	<unistd.h>
+	<cs50.h>
+	"config.c"
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CS50x" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CS50x" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CS50x" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="aula02.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula03.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula04.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula05.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula06.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula08.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula09.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="aula19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
