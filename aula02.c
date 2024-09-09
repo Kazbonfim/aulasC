@@ -2,7 +2,7 @@
 #include <locale.h>
 #include <cs50.h>
 
-int aula002 (void){
+int aula02 (void){
     // Estrutua de repetição para exibir múltiplos outputs
     for(int i = 0; i < 3; i++)
     {

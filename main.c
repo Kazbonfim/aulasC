@@ -14,7 +14,7 @@ int main()
     //aula06(); // Aritmética, usando pontos flutuantes
     //aula07(); // get_float e printf com %f
     //aula08(); // Aritmética usando números de ponto-flutuante (float)
-    //aula09(); // get_int e printf com %i
+    aula09(); // get_int e printf com %i
     //aula10(); // Imprime uma linha com 04 pontos de interrogação; Usando laço de repetição FOR
     //aula11(); // Usando laços de repetição: DO/WHILE, FAÇA/ENQUANTO QUE
     //aula12(); // Mais laços de repetição, com FOR

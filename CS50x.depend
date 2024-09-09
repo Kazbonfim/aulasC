@@ -108,3 +108,104 @@
 	<cs50.h>
 	"config.c"
 
+1720915727 source:d:\faculdade\aulas de c\c\aula02.c
+	<stdio.h>
+	<locale.h>
+	<cs50.h>
+
+1719603004 source:d:\faculdade\aulas de c\c\aula03.c
+	<stdio.h>
+	"config.c"
+	<cs50.h>
+
+1719577082 d:\faculdade\aulas de c\c\config.c
+	<locale.h>
+
+1719638542 source:d:\faculdade\aulas de c\c\aula04.c
+	<stdio.h>
+	<cs50.c>
+	"config.c"
+
+1719607591 source:d:\faculdade\aulas de c\c\aula05.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719608860 source:d:\faculdade\aulas de c\c\aula06.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719610152 source:d:\faculdade\aulas de c\c\aula07.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719617575 source:d:\faculdade\aulas de c\c\aula08.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719617941 source:d:\faculdade\aulas de c\c\aula09.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719618366 source:d:\faculdade\aulas de c\c\aula10.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719620039 source:d:\faculdade\aulas de c\c\aula11.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719620014 source:d:\faculdade\aulas de c\c\aula12.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719621275 source:d:\faculdade\aulas de c\c\aula13.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719623990 source:d:\faculdade\aulas de c\c\aula14.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719668432 source:d:\faculdade\aulas de c\c\aula15.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719628175 source:d:\faculdade\aulas de c\c\aula16.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719628398 source:d:\faculdade\aulas de c\c\aula17.c
+	<stdio.h>
+	<cs50.h>
+	<math.h>
+	"config.c"
+
+1719630325 source:d:\faculdade\aulas de c\c\aula18.c
+	<stdio.h>
+	<cs50.h>
+	"config.c"
+
+1719630751 source:d:\faculdade\aulas de c\c\aula19.c
+	<stdio.h>
+	<unistd.h>
+	<cs50.h>
+	"config.c"
+
+1721821915 source:d:\faculdade\aulas de c\c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<cs50.h>
+
